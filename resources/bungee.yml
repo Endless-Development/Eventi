@@ -1,0 +1,11 @@
+name: EventiBungee
+version: 1.0
+main: kheeto.endlessnetwork.EventiBungee
+description: Plugin per hostare gli eventi, collegato a un plugin all'interno dei server spigot
+commands:
+  host:
+    usage: /<command>
+    description: Sends the player to a server where the event he specified will be hosted.
+permissions:
+  eventi.host:
+    description: Permission required to host events.
