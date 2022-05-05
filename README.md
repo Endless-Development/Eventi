@@ -7,7 +7,7 @@ Collegato a dei plugin presenti in ciascun server spigot
 
 | Comandi    | Descrizione |
 | ------------- |-------------|
-| /host <evento> | Hosta un evento |
+| /host [evento] | Hosta un evento |
   
 | Permessi    | Descrizione |
 | ------------- |-------------|
